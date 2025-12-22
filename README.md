@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me Zandy
 
 CS STUDENT
-<img align="right" width="370" height="290" src="https://www.fiverr.com/fizzy_pixel/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene">
+<img align="right" width="370" height="290" src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently EXPLORING
--  [<img height="24" width="24" src="https://www.fiverr.com/fizzy_pixel/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene">]
+-  [<img height="24" width="24" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/432c2a7ee15e7e7de49f1b368d5f5d92-1733530517/Spaceship/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene.gif">]
 - ⚡ Fun fact: I love coffee.
 
 
@@ -19,6 +19,6 @@ CS STUDENT
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![ Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+![LEETCODE STATS](https://leetcard.jacoblin.cool/Sandhiya1357?theme=chartreuse&font=Big%20Shoulders%20Stencil%20Text)
 
-[![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=SANDHYA098-afk)](https://github.com/SANDHYA098-afk/github-readme-stats)
