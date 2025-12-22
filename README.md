@@ -1,11 +1,11 @@
-## Hi there 👋 It's me Zandy
+## wAtAshi wa OTAKU desu!
 
 CS STUDENT
-<img align="right" width="370" height="290" src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif">
-- 🔭 Here's my [portfolio]()                                                 
+<img align="right" width="370" height="290" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/432c2a7ee15e7e7de49f1b368d5f5d92-1733530517/Spaceship/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene.gif">
+- 🔭 Here's my [LINKEDIN](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sandhiya-sl-149569291" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sandhiya-sl-149569291?trk=profile-badge">Sandhiya SL</a></div>
+              )                                                 
 - 🌱 I’m currently EXPLORING
--  [<img height="24" width="24" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/432c2a7ee15e7e7de49f1b368d5f5d92-1733530517/Spaceship/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene.gif">]
-- ⚡ Fun fact: I love coffee.
+- ⚡ I watch anime and sketch things
 
 
 ### I code in
@@ -16,9 +16,9 @@ CS STUDENT
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
 
-
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
 ![LEETCODE STATS](https://leetcard.jacoblin.cool/Sandhiya1357?theme=chartreuse&font=Big%20Shoulders%20Stencil%20Text)
+
+
+[![GITHUB GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=SANDHYA098-afk&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=SANDHYA098-afk)](https://github.com/SANDHYA098-afk/github-readme-stats)
