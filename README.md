@@ -1,9 +1,9 @@
 ## Konnichiwa 👋, wAtAshi wa SANDHIYA desu!
 
 - CS STUDENT
-- 🔭 Here's my [Linkedin](www.linkedin.com/in/sandhiya-sl-149569291)
-- 🌟 I’m currently EXPLORING
+- 🌟 I’m currently EXPLORING 
 - ⚡ I watch anime and sketch things
+- 🔭 Here's my [Linkedin](www.linkedin.com/in/sandhiya-sl-149569291)
 <img align="right" width="370" height="290" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/432c2a7ee15e7e7de49f1b368d5f5d92-1733530517/Spaceship/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene.gif">
 
 
