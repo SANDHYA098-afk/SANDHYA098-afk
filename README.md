@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=8000&pause=8000&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&pause=9999&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=9999&color=C084FC&center=true&vCenter=true&width=500&lines=//+C+O+M+P+S+C+I+S+T+U+D+E+N+T+" alt="Languages"/>
 
