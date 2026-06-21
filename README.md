@@ -2,20 +2,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=8000&pause=8000&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=1500&pause=999&color=FF72D2FF&center=true&vCenter=true&width=400&height=55&lines=CS+S+T+U+D+E+N+T" alt="ZANDY" />
-
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=9999&color=C084FC&center=true&vCenter=true&width=500&lines=//+CS STUDENT+" alt="Languages"/>
 
 
 </div>
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=9999&color=C084FC&center=true&vCenter=true&width=500&lines=//+ABOUT+ME" alt="Languages"/>
+
 <img align="right" width="360" height="280" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/432c2a7ee15e7e7de49f1b368d5f5d92-1733530517/Spaceship/draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene.gif"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&pause=9999&color=F472B6&vCenter=true&width=400&lines=🌸+こんにちは+—+I%27m+ZANDY+👾" alt="Hello" />
+
+
 
 ```yaml
-# ░░ ME ░░░░░░░░░░░░░░░░░░░░░░░░
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░
+
   user   : Zandy/Sandhiya  ✦
   about  : CS Student · Learning, breaking and building 🚀
   quests :
@@ -23,6 +26,8 @@
     ★  Watching anime 🌙✨
     ★  Sketching between missions  ✏️🌸
   current status : Exploring the Tech Space 🛸
+
+  
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
@@ -47,9 +52,6 @@
 <br>
 
 <img height="52" src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,netlify,jupyter&theme=dark" />
-
-<br><br>
-
 <img height="40" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 </div>
@@ -58,11 +60,6 @@
 
 ## 🌌 ✦ MISSION LOGS ✦
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=9999&color=F472B6&center=true&vCenter=true&width=580&lines=「+Every+project+is+a+new+galaxy+to+explore+」+🌠" alt="quote"/>
-</div>
-
-<br>
 
 ---
 
@@ -73,11 +70,7 @@
   How to host: push the image to your repo under /assets/notestack.png
   Then use: https://raw.githubusercontent.com/SANDHIYA098-afk/YOUR_REPO/main/assets/notestack.png
 -->
-<div align="center">
-<img src="https://placehold.co/800x400/0D1117/C084FC?text=NoteStack+—+Upload+screenshot+to+repo+%2Fassets" width="700" style="border-radius:10px; border: 1px solid #C084FC"/>
-</div>
 
-<br>
 
 > **⚡ Transmission :** A serverless student notes and file sharing platform 🌌
 
@@ -93,14 +86,6 @@
 
 ### ✦ 🌠 MISSION ✦ — `Neuro Copilot`
 
-<!-- 
-  ⚠️  REPLACE src with: https://raw.githubusercontent.com/SANDHIYA098-afk/YOUR_REPO/main/assets/neurocopilot.png
--->
-<div align="center">
-<img src="https://placehold.co/800x400/0D1117/7DD3FC?text=Neuro+Copilot+—+Upload+screenshot+to+repo+%2Fassets" width="700" style="border-radius:10px; border: 1px solid #7DD3FC"/>
-</div>
-
-<br>
 
 > **⚡ Transmission :** NEURO COPILOT is a high-performance, RAG-driven AI Support Copilot designed to provide instant, contextually relevant answers using private knowledge bases. 🛸
 
@@ -116,14 +101,6 @@
 
 ### ✦ 🌸 MISSION ✦ — `Zandy's Zone`
 
-<!-- 
-  ⚠️  REPLACE src with: https://raw.githubusercontent.com/SANDHIYA098-afk/Zandys_Zone/main/assets/zandyszone.png
--->
-<div align="center">
-<img src="https://placehold.co/800x400/0D1117/F472B6?text=Zandy%27s+Zone+—+Upload+screenshot+to+repo+%2Fassets" width="700" style="border-radius:10px; border: 1px solid #F472B6"/>
-</div>
-
-<br>
 
 > **⚡ Transmission :** My personal portfolio — a pixel-perfect space to showcase who I am 🌸
 
@@ -139,14 +116,6 @@
 
 ### ✦ 🚀 MISSION ✦ — `ReachCraft`
 
-<!-- 
-  ⚠️  REPLACE src with: https://raw.githubusercontent.com/SANDHIYA098-afk/YOUR_REPO/main/assets/reachcraft.png
--->
-<div align="center">
-<img src="https://placehold.co/800x400/0D1117/f4b172?text=ReachCraft+—+Upload+screenshot+to+repo+%2Fassets" width="700" style="border-radius:10px; border: 1px solid #f4b172"/>
-</div>
-
-<br>
 
 > **⚡ Transmission :** An AI content-strategy agent that takes a business brief and returns a full four-stage strategy report. I built the frontend for this group mission. 🚀
 
@@ -168,14 +137,14 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SANDHIYA098-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7DD3FC&text_color=CDD6F4&ring_color=C084FC&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SANDHYA098-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7DD3FC&text_color=CDD6F4&ring_color=C084FC&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHIYA098-afk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CDD6F4" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHYA098-afk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CDD6F4" height="170"/>
 
 <br>
 
 <!-- FIX: switched to ghchart.rshah.org which renders numbers clearly on dark bg -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHIYA098-afk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=7DD3FC&dates=CDD6F4&stroke=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF" width="680"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA098-afk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=7DD3FC&dates=CDD6F4&stroke=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF" width="680"/>
 
 <br><br>
 
@@ -191,7 +160,7 @@
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANDHIYA098-afk&bg_color=0D1117&color=C084FC&line=7DD3FC&point=F472B6&area=true&hide_border=true&radius=6)](https://github.com/SANDHIYA098-afk)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANDHYA098-afk&bg_color=0D1117&color=C084FC&line=7DD3FC&point=F472B6&area=true&hide_border=true&radius=6)](https://github.com/SANDHIYA098-afk)
 
 </div>
 
@@ -202,7 +171,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhiya-sl-149569291)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANDHIYA098-afk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sandhiya1357)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=vercel&logoColor=white)](https://zandyszone.netlify.app/)
 
@@ -211,10 +179,6 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=2500&color=C084FC&center=true&vCenter=true&width=700&lines=✦+The+universe+is+big.+So+is+the+codebase.+Keep+exploring.+✦;★+From+Chennai+to+the+Cosmos+★+🌌🚀;✧+Code+·+Anime+·+Stars+·+Repeat+✧+🌸⚡🔭" alt="Footer quote" />
-
-<br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SANDHIYA098-afk&color=C084FC&style=for-the-badge&label=✦+TRANSMISSIONS+RECEIVED)
 
