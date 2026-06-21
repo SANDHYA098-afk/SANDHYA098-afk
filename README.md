@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=999&pause=999&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
 
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=999&pause=999&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
+
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=999&pause=999&color=C084FC&center=true&vCenter=true&width=400&height=55&lines=✦+CS+STUDENT+✦;★+CODE+·+COFFEE+·+CRAYONS+★;🚀+EXPLORING+THE+DEV+UNIVERSE+🌌;✧+WANDERING+BETWEEN+BUGS+%26+STARS+✧" alt="ZANDY" />
 
 
