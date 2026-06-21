@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=8000&pause=8000&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=9999&color=C084FC&center=true&vCenter=true&width=500&lines=//+CS STUDENT+" alt="Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=9999&color=C084FC&center=true&vCenter=true&width=500&lines=//+C+O+M+P+S+C+I+S+T+U+D+E+N+T+" alt="Languages"/>
 
 
 </div>
@@ -43,7 +43,7 @@
 
 <br>
 
-<img height="52" src="https://skillicons.dev/icons?i=python,java,js,react,html,css,bootstrap,tensorflow&theme=dark" />
+<img height="52" src="https://skillicons.dev/icons?i=python,java,js,nextjs,react,html,css,bootstrap,tensorflow&theme=dark" />
 
 <br><br>
 
@@ -51,8 +51,7 @@
 
 <br>
 
-<img height="52" src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,netlify,jupyter&theme=dark" />
-<img height="40" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img height="52" src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,netlify,vercel,jupyter&theme=dark" /><img height="40" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 </div>
 
@@ -125,7 +124,7 @@
 
 **⚡ Tech Stack:**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" height="42"/> <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" height="42"/> 
 
 ---
 
@@ -146,6 +145,9 @@
 <!-- FIX: switched to ghchart.rshah.org which renders numbers clearly on dark bg -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA098-afk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=7DD3FC&dates=CDD6F4&stroke=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF" width="680"/>
 
+<br>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANDHYA098-afk&bg_color=0D1117&color=C084FC&line=7DD3FC&point=F472B6&area=true&hide_border=true&radius=6)](https://github.com/SANDHIYA098-afk)
+
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=9999&color=F472B6&center=true&vCenter=true&width=500&lines=//+LEETCODE+ARENA" alt="LeetCode"/>
@@ -156,11 +158,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=9999&color=7DD3FC&center=true&vCenter=true&width=500&lines=//+WARP+TRAIL+—+ACTIVITY+GRAPH" alt="Activity"/>
 
-<br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANDHYA098-afk&bg_color=0D1117&color=C084FC&line=7DD3FC&point=F472B6&area=true&hide_border=true&radius=6)](https://github.com/SANDHIYA098-afk)
+
 
 </div>
 
