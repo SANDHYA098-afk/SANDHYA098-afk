@@ -146,6 +146,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SANDHYA098-afk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=7DD3FC&dates=CDD6F4&stroke=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF" width="680"/>
 
 <br>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SANDHYA098-afk&bg_color=0D1117&color=C084FC&line=7DD3FC&point=F472B6&area=true&hide_border=true&radius=6)](https://github.com/SANDHIYA098-afk)
 
 <br><br>
