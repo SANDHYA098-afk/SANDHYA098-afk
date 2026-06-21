@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=9999&pause=9999&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=999&pause=999&color=C084FC&center=true&vCenter=true&width=700&height=110&lines=Z+A+N+D+Y" alt="ZANDY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1200&color=7DD3FC&center=true&vCenter=true&width=660&lines=✦+CS+STUDENT+✦;★+CODE+·+COFFEE+·+CRAYONS+★;🚀+EXPLORING+THE+DEV+UNIVERSE+🌌;✧+WANDERING+BETWEEN+BUGS+%26+STARS+✧" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=999&pause=999&color=C084FC&center=true&vCenter=true&width=400&height=55&lines=✦+CS+STUDENT+✦;★+CODE+·+COFFEE+·+CRAYONS+★;🚀+EXPLORING+THE+DEV+UNIVERSE+🌌;✧+WANDERING+BETWEEN+BUGS+%26+STARS+✧" alt="ZANDY" />
+
+
 
 </div>
 
